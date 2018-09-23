@@ -1,0 +1,15 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+	{% load static %}
+</head>
+<body> 
+
+<video width="400" controls>
+  <source src="{% static 'player/' %}{{video_list.0.name}}" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+<p>
+
+</body> 
+</html>
