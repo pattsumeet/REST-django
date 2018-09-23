@@ -2,6 +2,8 @@
 Install python 3 or higher version.
 Install django framework.
 
+How to install : https://tutorial.djangogirls.org/en/installation/
+
 Clone this project.
 
 After cloning run:
